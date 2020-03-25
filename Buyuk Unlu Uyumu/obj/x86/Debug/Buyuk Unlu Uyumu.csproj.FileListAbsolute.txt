@@ -1,0 +1,14 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\bin\Debug\Buyuk Unlu Uyumu.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\bin\Debug\Buyuk Unlu Uyumu.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk_Unlu_Uyumu.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk_Unlu_Uyumu.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.pdb
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.exe
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.pdb
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\bin\Debug\Buyuk Unlu Uyumu.exe
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\bin\Debug\Buyuk Unlu Uyumu.pdb
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk_Unlu_Uyumu.Form1.resources
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk_Unlu_Uyumu.Properties.Resources.resources
+C:\Users\murat\Desktop\28 Kodbank C# Görsel Programlama 28 Büyük Ünlü Uyumu\Buyuk Unlu Uyumu\Buyuk Unlu Uyumu\obj\x86\Debug\Buyuk Unlu Uyumu.csproj.GenerateResource.Cache
